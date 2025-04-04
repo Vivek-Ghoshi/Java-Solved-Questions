@@ -1,4 +1,4 @@
-package leetcode;
+package Leetcode;
 
 public class FindAndMultiply {
     //leetcode:2154, keep multiply found values by two

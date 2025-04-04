@@ -1,4 +1,4 @@
-package leetcode;
+package Leetcode;
 
 
 public class EqDivPairs {
